@@ -1,0 +1,9 @@
+OK ADD S-3
+OK ADD S-1
+OK ADD S-4
+OK ADD S-2
+LIST 4
+CONTACT | S-1 - Abad, Ana - Writer - Philippines - 63-02-100001
+CONTACT | S-2 - Lim, Ana - Writer - Philippines - 63-02-100002
+CONTACT | S-4 - Santos, Ana - Writer - Philippines - 63-02-100004
+CONTACT | S-3 - Zulu, Ana - Writer - Philippines - 63-02-100003

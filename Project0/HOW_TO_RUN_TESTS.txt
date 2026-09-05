@@ -1,0 +1,15 @@
+PROJECT 0 - ASEAN PHONEBOOK
+
+1. Read "Project 0 - ASEAN Phonebook.pdf" first.
+2. Complete the provided Python scaffold files:
+   - constants.py
+   - contact.py
+   - phonebook.py
+   - main.py
+3. Run the provided preliminary tests from this folder:
+
+   python public_tests/run_tests.py
+
+The public tests are for development confidence only. Additional instructor-only cases may still be used for final validation.
+
+Submit only the four Python files required by the project instructions. Do not submit the public_tests folder.
