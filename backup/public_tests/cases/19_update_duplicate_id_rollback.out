@@ -1,0 +1,6 @@
+OK ADD A-1
+OK ADD B-2
+ERROR DUPLICATE_ID B-2
+LIST 2
+CONTACT | A-1 - Lim, Ana - Coordinator - Malaysia - 60-03-000111
+CONTACT | B-2 - Santos, Bea - Technician - Philippines - 63-082-009999

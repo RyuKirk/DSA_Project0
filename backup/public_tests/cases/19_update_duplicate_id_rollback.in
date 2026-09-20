@@ -1,0 +1,6 @@
+ASEAN-PHONEBOOK 1.0
+4
+ADD|A-1|Lim|Ana|Coordinator|60|03|000111
+ADD|B-2|Santos|Bea|Technician|63|082|009999
+UPDATE|A-1|ID|B-2
+LIST

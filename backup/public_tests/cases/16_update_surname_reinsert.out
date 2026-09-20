@@ -1,0 +1,8 @@
+OK ADD S-001
+OK ADD S-002
+OK ADD S-003
+OK UPDATE SURNAME | Zulu -> Abao
+LIST 3
+CONTACT | S-001 - Abad, Lio - Analyst - Indonesia - 62-021-000777
+CONTACT | S-003 - Abao, Ana - Writer - Singapore - 65-04-123456
+CONTACT | S-002 - Garcia, Mina - Designer - Philippines - 63-02-001234

@@ -1,0 +1,6 @@
+OK ADD A-1
+OK ADD B-2
+ERROR DUPLICATE_PHONE 60-03-009999
+LIST 2
+CONTACT | A-1 - Lim, Ana - Coordinator - Malaysia - 60-03-000111
+CONTACT | B-2 - Santos, Bea - Technician - Malaysia - 60-03-009999

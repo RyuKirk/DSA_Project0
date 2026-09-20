@@ -1,0 +1,6 @@
+ASEAN-PHONEBOOK 1.0
+4
+ADD|S-010|Garcia|Noel|Analyst|60|03|000999
+ADD|S-002|Garcia|Mina|Designer|63|02|001234
+ADD|S-003|Abad|Kim|Writer|65|04|123456
+FIND_SURNAME|garcia

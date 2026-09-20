@@ -1,0 +1,8 @@
+OK ADD S-001
+OK ADD S-002
+OK ADD S-003
+OK UPDATE GIVEN_NAME | Zed -> Ana
+LIST 3
+CONTACT | S-001 - Lim, Ana - Analyst - Indonesia - 62-021-000777
+CONTACT | S-002 - Lim, Bea - Designer - Philippines - 63-02-001234
+CONTACT | S-003 - Lim, Mia - Writer - Singapore - 65-04-123456
